@@ -66,6 +66,7 @@ This project is a simple Express.js application that provides a URL shortening s
 - All requests are logged with method, URL, status, and response time.
 - Errors and important events (like URL creation) are logged with timestamps.
 - Logs are stored in `access.log` in the project directory.
+![GET](https://github.com/user-attachments/assets/c86f2947-6299-464e-8d82-f5269334579f)
 
 ## How to Run
 
@@ -83,3 +84,5 @@ This project is a simple Express.js application that provides a URL shortening s
 
 - All data is stored in memory; restarting the server will clear all short URLs.
 - The service is for demonstration and testing purposes. 
+
+
