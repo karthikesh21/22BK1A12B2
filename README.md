@@ -85,4 +85,6 @@ This project is a simple Express.js application that provides a URL shortening s
 - All data is stored in memory; restarting the server will clear all short URLs.
 - The service is for demonstration and testing purposes. 
 
+![POST ](https://github.com/user-attachments/assets/87e59595-0227-411d-96b0-002176de671a)
 
+![GET](https://github.com/user-attachments/assets/7c29eff5-77e7-4440-9b6b-acec56939766)
